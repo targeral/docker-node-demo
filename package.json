@@ -1,0 +1,20 @@
+{
+  "name": "docker-node-demo",
+  "version": "1.0.0",
+  "description": "docker node demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "pm2-runtime start app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targeral/docker-node-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/targeral/docker-node-demo/issues"
+  },
+  "homepage": "https://github.com/targeral/docker-node-demo#readme"
+}
